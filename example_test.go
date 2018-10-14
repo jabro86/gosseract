@@ -1,4 +1,4 @@
-package gosseract
+package ocr_wrapper
 
 import (
 	"fmt"

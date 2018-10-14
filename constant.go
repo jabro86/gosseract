@@ -1,4 +1,4 @@
-package gosseract
+package ocr_wrapper
 
 // PageSegMode represents tesseract::PageSegMode.
 // See https://github.com/tesseract-ocr/tesseract/wiki/ImproveQuality#page-segmentation-method and

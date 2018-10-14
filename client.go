@@ -1,4 +1,4 @@
-package gosseract
+package ocr_wrapper
 
 // #if __FreeBSD__ >= 10
 // #cgo LDFLAGS: -L/usr/local/lib -llept -ltesseract
